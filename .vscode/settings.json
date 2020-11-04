@@ -3,12 +3,17 @@
         "cctype": "cpp",
         "clocale": "cpp",
         "cmath": "cpp",
+<<<<<<< HEAD
+=======
+        "cstdarg": "cpp",
+>>>>>>> 45b2249eb91427d211f5d6e9943d64fbe08c5520
         "cstddef": "cpp",
         "cstdio": "cpp",
         "cstdlib": "cpp",
         "cstring": "cpp",
         "ctime": "cpp",
         "cwchar": "cpp",
+<<<<<<< HEAD
         "atomic": "cpp",
         "*.tcc": "cpp",
         "chrono": "cpp",
@@ -24,10 +29,44 @@
         "new": "cpp",
         "ostream": "cpp",
         "ratio": "cpp",
+=======
+        "cwctype": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "cinttypes": "cpp",
+        "complex": "cpp",
+        "cstdint": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "initializer_list": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+>>>>>>> 45b2249eb91427d211f5d6e9943d64fbe08c5520
         "tuple": "cpp",
         "type_traits": "cpp",
         "utility": "cpp",
         "typeinfo": "cpp",
+<<<<<<< HEAD
         "cwctype": "cpp",
         "algorithm": "cpp",
         "iterator": "cpp",
@@ -41,5 +80,17 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "system_error": "cpp"
+=======
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+>>>>>>> 45b2249eb91427d211f5d6e9943d64fbe08c5520
     }
 }
